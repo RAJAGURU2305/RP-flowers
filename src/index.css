@@ -1,0 +1,91 @@
+.card-img-top{
+    width: 250px;
+}
+
+.d-block {
+    height:620px;
+
+}
+.container{
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    
+
+}
+.tag{
+    padding: 15px;
+    margin: 10px;
+    
+}
+.Animate{
+     margin: 20px;
+    
+}
+.container2{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+    justify-items: center;
+     border: 3px solid black; 
+}
+.container img{
+    padding: 12px;
+
+}
+.container1{
+    border: 2px solid black; 
+    width: 700px;
+    text-align: center;
+    justify-items: center; 
+    height: 1400px;
+    background-color: #F0F8FF;
+}
+.container1 img{
+    padding: 12px;
+
+}
+.login{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    margin-top: 1%;
+    margin-left:38%;
+    padding-top: 100px;  
+    
+} 
+
+.login1{
+    padding: 10px;
+}
+.login2{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+.FF{
+    border: 2px solid black;
+    text-align: center;
+    background-color: bisque;
+    padding: auto;
+    margin: auto;
+}
+.Signup{
+    text-align: center;   
+    align-items: center;
+    padding: auto;
+    margin: auto;
+    
+} 
+.Products{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-items: center;
+}
+
+

@@ -1,0 +1,16 @@
+{
+    "_id": {
+      "$oid": "66b1e0ea35ecf807a09b2d3a"
+    },
+    "name": "boopathy",
+    "desc": "five description",
+    "price": 4000,
+    "image": "5.webp",
+    "createdAt": {
+      "$date": "2024-08-06T08:38:02.875Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-06T08:38:02.875Z"
+    },
+    "__v": 0
+  }
